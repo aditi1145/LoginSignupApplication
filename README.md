@@ -23,3 +23,8 @@ npm i
 npm start
 ```
 Backend will be served in localhost at port 5000 
+
+## Needed changes to make:
+- change .env file variable values.(use your own email id , app password and key)
+- create database and after mongodb connection link mention database name.
+  

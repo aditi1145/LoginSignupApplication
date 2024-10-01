@@ -7,12 +7,11 @@ const ProfilePage = () => {
     const navigate = useNavigate();
 
     const handleSignOut = () => {
-        // Here you can clear the authentication tokens and redirect the user to the login page
-        localStorage.removeItem('token'); // example of token removal
-        navigate('/login'); // redirect to login
+        
+        localStorage.removeItem('token'); 
+        navigate('/login'); 
     };
     const [message, setMessage] = useState("");
-    // Add some simple styles
     const styles = {
         container: {
             fontFamily: 'Arial, sans-serif',
@@ -25,7 +24,6 @@ const ProfilePage = () => {
         navbar: {
             display: 'flex',
             justifyContent: 'space-between',
-            // alignItems: 'center',
             backgroundColor: '#3b1b47',
             padding:'20px',
             position:'absolute',

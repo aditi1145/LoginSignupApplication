@@ -28,11 +28,11 @@ Backend will be served in localhost at port 5000
 - change .env file variable values.(use your own email id , app password and key)
 - create database and after mongodb connection link mention database name.
 ## WIP / To Dos
-[x] OTP authentication
-[x] Responsive Profile Page
-[ ] Responsive Signup
-[ ] Password Visible
-[x] Email Validation
-[ ] Password Validation
-[ ] Captcha
+- [x] OTP authentication
+- [x] Responsive Profile Page
+- [ ] Responsive Signup
+- [ ] Password Visible
+- [x] Email Validation
+- [ ] Password Validation
+- [ ] Captcha
   

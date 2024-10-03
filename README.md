@@ -31,7 +31,7 @@ Backend will be served in localhost at port 5000
 - [x] OTP authentication
 - [x] Responsive Profile Page
 - [ ] Responsive Signup
-- [ ] Password Visible
+- [x] Password Visible
 - [x] Email Validation
 - [ ] Password Validation
 - [ ] Captcha
